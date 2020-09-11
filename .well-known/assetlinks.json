@@ -1,9 +1,74 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.doctorbox.patient.debug",
-    "sha256_cert_fingerprints":
-    ["5A:DC:A5:E8:B4:DF:BE:5F:17:28:67:31:8F:A0:ED:A7:D7:8D:87:E1:9F:E1:5A:33:D3:6A:B4:44:6D:63:A4:4F"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.doctorbox.patient.debug",
+      "sha256_cert_fingerprints": [
+        "CC:4D:D9:F4:97:30:94:1E:98:E1:91:81:2C:1E:B3:8E:A9:25:50:86:36:AF:DE:32:C5:CE:93:D2:04:D5:AA:BA"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.doctorbox.patient.release",
+      "sha256_cert_fingerprints": [
+        "1A:B6:8F:9B:6A:8A:37:22:F3:C7:84:77:18:57:F5:5F:6B:B5:68:7B:D3:18:0F:6B:DF:7E:D0:B1:E1:21:92:DA"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.doctorbox.patient.release",
+      "sha256_cert_fingerprints": [
+        "0D:E5:75:3E:5A:1A:D7:3F:05:73:28:29:8D:C1:59:D1:EE:A1:1B:FD:61:B8:F3:8B:83:94:22:09:75:75:6B:58"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.doctorbox.patient.debug",
+      "sha256_cert_fingerprints": [
+        "5A:DC:A5:E8:B4:DF:BE:5F:17:28:67:31:8F:A0:ED:A7:D7:8D:87:E1:9F:E1:5A:33:D3:6A:B4:44:6D:63:A4:4F"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.doctorbox.patient",
+      "sha256_cert_fingerprints": [
+        "1A:B6:8F:9B:6A:8A:37:22:F3:C7:84:77:18:57:F5:5F:6B:B5:68:7B:D3:18:0F:6B:DF:7E:D0:B1:E1:21:92:DA"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.doctorbox.patient",
+      "sha256_cert_fingerprints": [
+        "CF:27:65:66:2E:46:87:22:32:65:C1:78:F3:5D:32:26:55:02:54:C0:D6:55:C5:F7:90:A7:6E:D0:A4:F7:5F:E2"
+      ]
+    }
   }
-}]
+]
