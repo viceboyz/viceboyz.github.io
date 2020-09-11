@@ -1,14 +1,9 @@
-[
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.doctorbox.patient.debug",
-      "sha256_cert_fingerprints": [
-        "CC:4D:D9:F4:97:30:94:1E:98:E1:91:81:2C:1E:B3:8E:A9:25:50:86:36:AF:DE:32:C5:CE:93:D2:04:D5:AA:BA"
-      ]
-    }
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.doctorbox.patient.debug",
+    "sha256_cert_fingerprints":
+    ["CC:4D:D9:F4:97:30:94:1E:98:E1:91:81:2C:1E:B3:8E:A9:25:50:86:36:AF:DE:32:C5:CE:93:D2:04:D5:AA:BA"]
   }
-]
+}]
