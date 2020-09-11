@@ -10,29 +10,5 @@
         "CC:4D:D9:F4:97:30:94:1E:98:E1:91:81:2C:1E:B3:8E:A9:25:50:86:36:AF:DE:32:C5:CE:93:D2:04:D5:AA:BA"
       ]
     }
-  },
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.doctorbox.patient.release",
-      "sha256_cert_fingerprints": [
-        "1A:B6:8F:9B:6A:8A:37:22:F3:C7:84:77:18:57:F5:5F:6B:B5:68:7B:D3:18:0F:6B:DF:7E:D0:B1:E1:21:92:DA"
-      ]
-    }
-  },
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.doctorbox.patient.release",
-      "sha256_cert_fingerprints": [
-        "0D:E5:75:3E:5A:1A:D7:3F:05:73:28:29:8D:C1:59:D1:EE:A1:1B:FD:61:B8:F3:8B:83:94:22:09:75:75:6B:58"
-      ]
-    }
   }
 ]
