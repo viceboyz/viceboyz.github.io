@@ -10,5 +10,17 @@
         "1A:B6:8F:9B:6A:8A:37:22:F3:C7:84:77:18:57:F5:5F:6B:B5:68:7B:D3:18:0F:6B:DF:7E:D0:B1:E1:21:92:DA"
       ]
     }
+  },
+ {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.doctorbox.patient",
+      "sha256_cert_fingerprints": [
+        "CF:27:65:66:2E:46:87:22:32:65:C1:78:F3:5D:32:26:55:02:54:C0:D6:55:C5:F7:90:A7:6E:D0:A4:F7:5F:E2"
+      ]
+    }
   }
 ]
